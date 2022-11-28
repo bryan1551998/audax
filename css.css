@@ -1,0 +1,25 @@
+/* NAV */
+.bgNav {
+    background-color: #EEB005 !important;
+
+}
+
+/* FOOT */
+.bgFoot {
+    background-color: rgba(46, 45, 45, 0.758) !important;
+}
+
+/* BTN */
+.btn-primary {
+    background-color: #3f61c7 !important;
+    border-color: #3f61c7 !important;
+    transition: 0.5s;
+}
+
+.btn-primary:hover {
+    background-color: #6984d7 !important;
+    border-color: #6984d7 !important;
+    padding-left: 18px;
+    padding-right: 18px;
+    transition: 0.5s;
+}
